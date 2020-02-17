@@ -17,6 +17,7 @@ The user should be able to:
 
 ## Technologies
 Back-end: NodeJS, ExpressJS, MongoDB NoSQL Database, Mongoose Schema
+
 Front-end: Javascript/jQuery, Semantic UI
 
 ## Deployed Application
