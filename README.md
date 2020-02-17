@@ -15,5 +15,9 @@ The user should be able to:
 
   * Add new exercises to a new workout plan.
 
+## Technologies
+Back-end: NodeJS, ExpressJS, MongoDB NoSQL Database, Mongoose Schema
+Front-end: Javascript/jQuery, Semantic UI
+
 ## Deployed Application
 https://protected-thicket-42581.herokuapp.com/
